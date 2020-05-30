@@ -6,22 +6,56 @@ v1.0, 2020-05-09
 
 == Что такое душа?
 
-=== Įvadas
+=== Įvadas - fundamentali psichologija
 
 ++++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=60&end=80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=60&end=393" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
 
-=== todo
+Tam, kad susidaryti įspūdį apie tai kas yra psichologija ir psichiatrija kaip šiuolaikinė disciplina, šiuolaikinis mokslas, šiuolakinė praktika, šiuolakinė kryptis tapusi tokia populiari, kad beveik kiekvienas dabartinis vakarų civilizacijos žmogus vienaip ar kitaip susidūręs įvairiais savo gyvenimo momentais, bet tam, kad kalbėti apie šiulaiknę psichologiją kaip discipliną, kaip metodą, kaip mokslą, kaip praktiką aišku būtina pažvelgti į tai kas buvo prieš ją.
+Todėl, kad šie du terminai kurie sudaro pavadinimą psichologija - psiuche - siela graikiškai ir logos, logija - mokslas, disciplina aišku nusiunčia mus link kažkokių konceptų, kurie turi žymiai senesnę ir žymiai sensnę istoriją, kilmę.
+Bet galime pasakyti, kad psichologija tai mokslas apie sielą, taip bent seka iš analizuojant šiuos du terminus.
+Bet tame jau randasi principilus triukas, todėl, kad, kada gi atsiranda šis mokslas psichologija?
+Griežtai kalbant pats terminas psichologija atsiranda tik 18 amžiuje, o kaip disciplina jis atsiranda 19 amžiuje, net arčiau jo galo, o išpopuliarėja tik 20 amžiuje.
+Bet mes žinome, kad būtent šį periodą dabartinis mokslas, dabartinė epistemologija statoma ant visai kitų principų, tai yra naujas laikas 18, 19, 20 ir 21 amžiuose aplamai neigia sielą.
+Tai yra psichologija mokslas apie sielą atsiranda būtent tada ir susiformuoja į savarankišką kryptį kada žmogus ne tik pamiršta kas yra siela, bet stato savas teorijas, apie būtį, žmogų, pasaulį, visuomenę išnešdama šią sielą už skliaustų, arba interpretuodama ją kažkokiu neįsivaizduojamu tradicijos atžvilgiu būdu arba aplamai ją neigia.
+Psichiatrija tai du terminai psiche - siela ir jatrija - gydymas, tai yra sielos gydymas.
+Psichologija tai kas tyrinėja sielą, dar psichologija gali būti konsultacija, o psichiatrija tai kada konsultacijos nepakanka.
+Psichologija gali praryti psichiatrijos terminą, jeigu mes suskirstysime psichologiją laipsniais: yra bendra psichologija kuri tiria sielą, yra konsultacinė psichologija, yra griežta taikomoji psichologija klinikinė pagalba.
+Tai yra jau pačiame psichologijos pagrinde.
+Tai yra psichologija ir psichiatrija apeliuoja į sielą, kurios nėra.
+Paradoksas pasirodo pačioje šios disciplinos atsiradimo pradžioje.
+Tai ką gi tiria psichologija ir ką išgydo psichiatrija, jei tas kultūrinis ir epistemologinis, mokslinis kontekstas, kuriame ši disciplina vystosi pastatytas ant sielos neigimo.
+Kad suprasti šį paradoksą reikia atlikti rimtą ekskursą į tą pasaulį kuris buvo prieš psichologijos atsiradimą, tam kad apibrėžti šios disciplinos geniologiją.
+
+=== Psiche semantika.
 ++++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=286&end=394" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=393&end=586" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
 
-===  todo
+Ši lekcija skirta tam kas vadinosi siela iki atsirado psichologijos mokslas.
+Tam kad mums tiksliai suprasti psichologijos discipliną būtina parodyti sielos amonimo semantiką šioje disciplinoje ir to apie ką buvo terminas siela iki atsirandant psichologijai ir net giliau savose šaknyse.
+Mums reikia suprasti pradinę žodžio psiche reikšmės semantiką tam, kad suprasti su kokiu pradiniu baziniu konceptu psichologija turėjo reikalą, net jei ji suprato po sielą kažką kitą.
+Dar daugiau psichologijos mokymas turi prasidėti būtent nuo to.
+Būtina sudti šalia psichologijos mokslą ir tai ką vadino siela iki atsiradus šiais disciplinai.
+Jei mes šios operacijos neatliksime, jei numosime ranka ir pasakysime - na dabartinė psichologija suprantama savo tyrinėjimo objektą apytiksliai tą patį kaip ir iki mokslo periodo religinėje visuomenėje suprato po sielos pavadinimu, tada mes atliksime didelę klaidą.
+Tie kas bando sudaryti įspūdį, kad egzistuoja kažkoks nenutrūkstamas idėjinimas kontinumas tarp sielos kaip ją suprato tradicinė visuomenė iki atsirandant psichologijai, o psichologija tai šiuolaikinis mokslas, kuri atsirado moderno periode ir gan vėlai 18-19 amžiuje, tada mes padarysime kolosalią klaidą.
+Tada šią lekciją skirsime tam kuom buvo siela tose visuomenėse, kuriose psichologijos nebuvo ir negalėjo būti, tose visuomenėse kur naujo laiko supratimas apie žmogų, būtį, kosmosą, pasaulį, gamtą, gyvenimą, mirtį, fiziologiją, mentalumą, mąstymą, materialumą visa tai buvo organizuota kitu būdu nei naujais laikais.
+
+=== Aukos dūmai
 
 ++++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=585&end=871" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=586&end=871" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
+
+Sielos sąvoka skirtingose visuomenėse, kultūrose turėjo ir skirtingą pavadinimą tokį kaip lotynų anima, graikišką psiuche arba graikiška pneuma, sanskrito atman, visas šis supratimų kompleksas formavosi aplink kvėpavimo ir pūstelėjimo idėją.
+Tai dvi principialios reikšmės, kurios guli sielos supratimo pagrinde.
+Anima irgi reiškia kvėpuoti iš čia animal kvėpuojanti būtybė.
+Atman irgi reiškia kvėpuoti.
+Thiuo graikiškas žodis reiškia kvapo plitimas nuo aukos, tai deginamo ėriuko, jaučio, aukos dūmai arba kvapas kurie kyla kažkur į viršų.
+Šis judėjimas, procesas prisodrinto sudegintos aukos aromato.
+Graikiškas žodis theo tai ta butybė kuriai skirta šis aromato srautas.
+
 
 ===  Vėjas
 
@@ -241,3 +275,15 @@ Tokiu būdu Aristotelio mokymas apie sielą yra antroji versiją apie sielą ir 
 ++++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QSaSrhg-Hes?start=4140&end41400" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
+
+Demokritas, Epikūras ir kiti graikų materialistai kalba, kad viskas kas yra materialu, sudaryta iš atomų.
+Demokritas kalba, kad siela taip pat sudaryta iš atomų.
+Žmonių sielos atomai silpniau susikabinę nei Dievų todėl ji subyra.
+Jie sako, kad siela yra ji yra žymiai aukščiau nei kūnas, jei kūno atomai silpnai laikosi pagal Demokiritą ir sura po mirties, sielos atomai tvirtesni, todėl suyra vėliau, todėl su mirusiais galima bendrauti ir pats Demokritas laiką leisdavo kapinėse bandydamas iškviesti tas dar nesuirusias sielas.
+Demokrito estafetę perima Epikūras ir sako, kad žmogus pilnai materialus, kol gyvna tol gyvena, o kada miršta nieko iš jo nelieka.
+Jis sako, kad yra absoliutus materialus, kurio išorėje nėra nieko, tada jeigu nieko daugiau nėra todėl viskas materialu.
+
+Tradicinėje visuomenėje totaliai dominuoje pirmi du sielos modeliai, t.y, kad siela yra kažkas visai dieviško pilnai nepriklausoma nuo kūno, antras modelis tai siela sukryžminta su kūnu.
+Platonizmas ir Aristotelizmas yra populiariausio sielos interpretacijos modeliai, kaip klasikinėse religinėse filosifijose ir mistiniuose mokymuose, taip ir pačiuose archaiškiausiuose kultuose.
+
+Tai gali būti mus vedantis kelias, kad suprasti sielos koncepto semantiką tradicinėje visuomenėje.
