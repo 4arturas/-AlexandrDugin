@@ -10,8 +10,8 @@ v1.0, 2020-06-07
 == Skyrius. Valios psichotechnikos: principai ir apibrėžimai
 == Skyrius. Valios meditacija
 === Atlikimo technika
-Valios meditacija yra pagrindinė technika psichonetiniame darbe. Jos paskirtis - pasiekimas trijų tarpusavyje susijusių
-pozicijų. Tai:
+Valios meditacija yra pagrindinė technika psichonetiniame darbe. Jos paskirtis - trijų tarpusavyje susijusių
+pozicijų pasiekimas. Tai:
 
 intensyvus realaus savojo "Aš" pergyvenimas;
 
@@ -39,8 +39,8 @@ atlieka
 "Aš", pasirenkamos dvi formulės, kurios yra valios meditacijos idėjos verbalinis išpakavimas.
 
 Pirma valios meditacijos formulė - "Aš esu". Tai sena, daugybėje praktikų naudojama formulė, teigia, pirma,
-sakančiojo šią formulę egzistavimo ir atsakomybės už savo egzistavimo faktą (tai sukelia ryškų savojo "Aš"
-pergyvenimą), ir, antra, atskiria gryną "Aš" (stebinčią ir veikiančią instanciją) nuo viso sąmonės turinio.
+tariančio šią formulę egzistavimo ir atsakomybės už savo egzistavimo faktą (tai sukelia ryškų savojo "Aš"
+suvokimą), ir, antra, atskiria gryną "Aš" (stebinčią ir veikiančią instanciją) nuo viso sąmonės turinio.
 
 Egzistavimo realumo patirtis - tai ne trivialus veiksmas. Daugumas žmonių gyvena savo gyvenimą nesuvokdami
 "Aš" realumo, o tarsi žiūrėdami kiną apie savo gyvenimą, bet ne valdydami jį aktyviai. Idėjinis "Aš esu" formulės
@@ -237,7 +237,21 @@ Gauta figūra iš viena ant kitos užklotomis plokštumomis vienu metu priklausy
 
 Stabilizavus vaizdą spalvos aplinka tampa kintančia: pradeda nesavavališkai(tai yra nepriklausomai nuo praktiko) keistis spalvos - vyraus viena, arba kita spalva, arba spalvos reguliariai keis viena kitą. Užduotis - stabilizuoti spalvą(jeigu dominuoja viena iš spalvų, tai pasirinkti tą, kurią reikia užfiksuoti) ir fiksuoti gan ilgą laiką(nuo vienos iki trijų minučių). Kadangi kintančių spalvų aplinkos atskiro valdymo organo nėra, todėl spalvos valdymas vykdomas arba tiesiogiai valia, arba remiantis silpnai apčiuopiamais vienos ar kitos akies dominavimo ypatumo. Antru atveju prasideda tos funkcinės sistemos diferenciacija(to "organo"), kuri teikia vis sąmoningesnį dominavimo valdymą. Bet tai - nukrypimas nuo iškelto uždavinio. Pratimas atliekamas tam, kad pakeisti suvokimo ypatybę - padaryti jį procesu, kuris aktyviai formuos realybę.
 
+Todėl užduotis pasunkėja tiek, kad spalvos keitimas būtų atliekamas ne dominavimo efektu, o veiksmu sąmonėje: keliamas uždavinys padalinti apskritimą vertikaliai į dvi skirtingai nuspalvotas puses, vėliau horizontaliai, vėliau pradedamos naudoti sudėtingas stimuliuojančios figūros.
 
+Šioje situacijoje ketinimas sukurti reikiamą spalvinę mozaiką natūraliai pasilieka idėjų sluoksnyje, nes pranyksta visi tarpininkai tarp ketinimu ir valdoma spalvine aplinka. Jokia žodinė formuluotė arba galinio rezultato vizualizacija čia nepagelbės. Vienintelė išeitis - surasti vidinį veiksmą, kuris daro paklusniais kai kuriuos suvokimo aspektus valios kontrolei.
 
+Šis vidinis sąmoningas veiksmas gali tapti valios ketinimo išpakavimas panašiai tam, kaip buvo išpakuojamos "spalvos būsenos" trečioje valios meditacijos fazėje arba buvo atliekama aukščiau aprašyta vizualizacija regos aplinkoje užmerktomis akimis. Tik šiuo atveju ketinimas "sukurti spalvą" išpakuojamas ne į kūno būseną ir ne "vizualinio sutankėjimo" ribose arba švytėjimo regos aplinkoje, o į regos aplinkoje viena ant kitos užklojimu sukurta vizualia figūra.
 
+=== Nuoseklių vaizdinių valdymas
+
+Kur kas sudėtingesnis yra spalvos konvertavimas į priešingą(papildomą) - pavyzdžiui, konvertuoti vieną raudoną apskritimą į žalią, arba mėlyną į oranžinį. Fiziologija šį užduotį leidžia atlikti, nes bet kokia nuspalvintos figūros fiksacija ant akies rainelės sukelia vaizdinio atsiradimą, kuris yra nuspalvintas papildoma spalva, kuri yra negatyvas.
+
+Nuoseklūs vaizdiniai - vizualiniai suvokimai, atsirandantys po to, kada spalvinė stimuliacija liovėsi. Kaip taisyklė, tai negatyvūs stimulo atvaizdai, išliekantys, remiantis skirtingais šaltiniais nuo kelių iki trisdešimties sekundžių. Vaizdiniai transformuojasi(negatyvi fazė pakeičiama pozityvia, ir taip toliau). Nuoseklių vaizdinių ryškumą, trukmę, stabilumą ir spalvą įtakoja esama būsena, farmakologiniai preparatai, neurotiniai ir  psichoziniai sutrikimai. Nuoseklių vaizdinių trukmės ir bruožo ryšį su esama būsena galima panaudoti valdant sąmonės būsenas.
+
+Mokymąsi valdyti nuosekliais vaizdiniais geriausia pradėti nuo jų intensyvumo valdymo spalvinio stimulo poveikio eigoje. Stimulo fiksacija(pavyzdžiui, spalvoto apskritimo) žvilgsniu ir dėmesio į jį koncentracija leidžia sujungti stimulą su sekančiu paskui jį vaizdiniu. Įprastomis sąlygomis suvokiama spalva dominuoja prieš ją pakeisiančiu vaizdiniu, bet esant giliai dėmesio koncentracijai įmanomas ir pakeisiančios spalvos dominavimas, o, reiškia, ir papildomos spalvos. Duoti detalią instrukciją, kažkokiu būdu atlikti tokią užduotį, praktiškai neįmanoma. Tiesiog turi būti ketinimas pasiekti užsibrėžto rezultato esant giliai "mentaliai tylai". Kažkurio momentu galima pastebėti atsiradusį "šydą", kuris turi papildomą spalvą - tai yra pirmieji prasidėjusio proceso požymiai. Kol kas tai įprastas percepcinis procesas. Bet jį reikia pasistengi "pagauti", sustiprinti spalvos konvertaciją į papildomą polinkį.
+
+Ilgalaikė papildomos spalvos fiksacija dažniausiai liudija apie gilią dėmesio koncentraciją. Bet mums svarbus ne vieno iš dėmesio parametrų stiprinimas, bet mokėjimas valdyti percepciniais fenomenais. Esant šiam tikslui praktika darosi sudėtingesnė: iškeliamas uždavinys suformuoti viename perdengtame fragmente ne vieną iš dviejų nurodytų spalvų, o vieną iš keturių, pridedant prie jų spalvas, kurios yra papildomos pradinių atžvilgiu, pavyzdžiui, ne tik raudoną ir mėlyną, bet žalią ir oranžinę(pav. B). Šio uždavinio atlikimas sako apie suvokimo stereotipų įveikimą ir percepcinio proceso perėjimą į valios kontrolę.
+
+=== Dviprasmių figūrų projekcijų valdymas
 
