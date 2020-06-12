@@ -275,6 +275,19 @@ Trečias uždavinys - lėtas dviejų identiškų kubų skirtingose projekcijose 
 
 === Vizualinio suvokimo suskaidymas
 
+Apart aprašytos aukščiau darbo su Nekerio kubo technikos sąmonės suskaidymui atveda praktikos su sluoksniuotomis figūromis. Šiuo atveju uždavinys yra abiejų spalvų, tuo pačiu metu sujungtoje figūroje lygiai kaip ir sujungtose Nekerio kubo vaizduose(pavyzdžiui, pamatyti vienu metu raudoną ir žalią spalvą figūroje, kuri buvo sukurta sujungus raudoną ir žalią apskritimus).
 
+Viena iš esminių vizualinio suvokimo funkcijos charakteristikų yra tame, kad regos aplinka organizuota kaip sluoksniuotas viena ant kitos plokštumų rinkinys, todėl uždavinys pamatyti vienu metu dvi plokštumas(mūsų atveju sužymėtomis skirtingomis spalvomis) susijęs prie neįmanomų, nepriklausomai nuo to, ar ši operacija vykdoma percepcinėje, ar vaizduotės aplinkoje. Bet tai neįmanoma tik tai sąmonės formai, kuri būdinga dabartinėms žmogiškosioms būtybėms. "Pamatyti tai kas nematoma" užduoties atlikimas reiškia sąmonės konfigūracijos pakeitimą, tokio sąmonės taško suradimą, iš kurio galima atlikinėti skirtingus vizualinės suvokimo funkcijos pakeitimus, pakeisti jos diferenciacijos bruožą ir suformuoti naujas suvokimo zonas.
 
+Kaip taisyklė, tokie uždaviniai nėra sprendžiami lengvai, reikia papildomų praktikų, kurios aprašytos žemiau.
 
+=== Somatinių ir kinestetinių aplinkų valdymas
+
+Netolydžių vizualinių aplinkų valdymas gan lengvai perkeliamas į somatinių ir kinstetinių aplinkų valdymą. Vien koncentracijos į delnus pakanka, kad suvokti "sensorinį triukšmą" - daugybė neapibrėžtų skirtingos prigimties jutimų. Tarp jų ir kūno pojūtis, ir šalčio, ir dilgčiojimų, ir sunkumo ir taip toliau. Dėmesio koncentracija ties vien sensorinio triukšmo rūšimi išskiria ją iš visų kitų ir padaro dominuojančia.
+
+Po vizualinio suvokimo suskaidymo atsiranda galimybė atlikti tokį pat sensorinio triukšmo suskaidymą - tuo pat metu išryškinti priešingus jutimus(šilumos ir šalčio, sunkumo ir lengvumo ir taip toliau).
+
+Įdomus kinestetinių nuoseklių vaizdų panaudojimas, būtent, vestibuliarinių. Perdengimas nuoseklaus vestibuliarinio vaizdinio ant vestibuliarinio suvokimo gali sukurti neįtikėtiną vestibuliarinę ištvermę - ilgalaikį kūno sukimą į vieną pusę nesukeliant šią operaciją sekančius nemalonumus.
+
+=== Tolesnės praktikos
+===
