@@ -1,0 +1,54 @@
+= Guvus modeliavimas: nėra daugiau pasirinkimas
+v1.0, 2020-06-12
+:example-caption!:
+:sectnums:
+:sectnumlevels: 2
+
+https://www.vertabelo.com/blog/data-vault-series-agile-modeling-not-an-option-anymore/
+
+Pasaulis keičiasi.
+
+Ne - pasaulis informacinėse technologijose, kaip mes žinome pasikeitė.
+
+Dideli duomenys(Big Data) ir Guvumas(Agile) tai - karštos temos.
+
+Bet kompanijoms vis dar reikia kaupti, daryti ataskaitas ir analizuoti savus duomenis. Dažniausiai tam reikia kažkokios formos duomenų saugojimo(data warehousing) arba biznio sumanių biznio(business intelligence) sistemų. Tai, kokiu keliu mes turime judėti šiuolaikiniame IT landšafte, kad būtume guvūs  ir, kad galėtume dirbti, tiesiogiai arba netiesiogiai su nestruktūrizuotais arba pusiaustruktūrizuotais duomenimis?
+
+Visų pirma - mums reikia pakeisti netikusius būdus - mes negalime daugiau turėti prabangą leisti metus, kad tiekti duomenis verslui. Mes negalime švaistyti mėnesius atliekant kruopščią analizę kuriant naudojimo atvejus ir išsamius specifikacijos dokumentus. Vėliau leisti mėnesius konstruojant įmonės mąsto duomenų modelius tik, kad juos dislokuoti(to deploy) ir suprasti sistemų pakeistą šaltinį ir modelius, kurie  neturi vietos laikyti dabar-aktualius duomenis kurie yra kritiniai mūsų verslo sėkmei.
+
+Mes turime būti žymiai guvesni.
+
+Mums reikia Guvaus Duomenų Inžinerijos, jeigu mes norime kada nors pasiekti Guvaus Duomenų Saugyklos tikslą.
+
+Verslo Sumanumo Duomenų Skliauto Sistema suteikia mums(be viso kito) priartėjimo prie mūsų verslo duomenų saugyklos(EDW) modeliavimo būdą kuris yra guvus, lankstus ir keičiamo dydžio. Tai pirmasis iš eilės straipsniu įvedantis į Duomenų Skliautą, kas tai yra, ir kaip jį padaryti.
+
+= Kodėl Duomenų Skliautas
+
+Dabartiniai duomenų saugyklos modeliavimo būdai turi trečios normalinės formos(3NF) tipo modelius arba dimensinius žvaigždės pavidalo schemos modelius. Dabar, kada turime architektus ir modeliuotojus kurie išnaudoja šiuos būdus sėkmingai, yra daugybė kitų kuriems nepasiseka, ir nepasiseka labai.
+
+Kodėl? Dažniausiai dėl patirties trūkumo, bet daugiau dėl to, kad šie būdai turi savyje esminių ydų, kurios, nors ir sprendžiamos, tačiau reikalauja tam tikros inžinieriaus kvalifikacijos, kurių industrija šiai dienai neturi pakankamai.
+
+Kokios gi yra šios problemos?
+
+Kad surinkti istoriją įprastame 3NF būde, jums reikia pridėti laiko žymą kiekvienai jūsų modelio lentelei. Ne tik tai, bet ji  turi būti pirminiu lentelės raktu, tam, kad jūs nesukurtumėte pasikartojančias kiekvienos dienos eilutes. Tai aišku apsunkina išorinio rakto kaskadinimo ryšius. Pirmame paveikslėlyje jūs matote paprastą standartinę Produkto ir Produkto Kategorijos lentos su Datos Žymomis pridėta prie raktų pavyzdį.
+
+Net šiame paprastame modelyje matome problemas. Laiko žymų pridėjimas kiekvienam pirminiam raktui padaro visus raktu labai sudėtingais. Įsivaizduokite valdovo-detalės-detalės ryšį su trim laiko žymų lygiais. Tai aiškiai apsunkins ne tik duomenų užkrovimą duomenų saugyklą, bet taip pat duomenų gavimą. Kaip jūs suvaldysite visas šias datas, kad gauti esamą duomenų vaizdą(bet kuriame laiko taške)? Nors tai yra geras būdas įtikinti jus, kad turite visą duomenų istoriją, galinis SQL'as gaunasi ne trivialus jį konstruojant ir palaikant.
+
+O kas jeigu jūs praleidote ryšį pradiniame modelyje? Naujo išorinio rakto pridėjimas šiam modeliui pareikalaus lentelės perkrovimo ir potencialiai istorijos, kurią jūs jau užfiksavote pakeitimo.
+
+Tai nėra guvu.
+
+Panašiais, dimensiniame modelyje yra neįprasta gauti naujus reikalavimus darbui gerokai įsibėgėjus, tai priverčia permąstyti visą projektą. Pavyzdžiui, turime pardavimų fakto lentą su Vartotoju, Produktu ir Tiekėjo išmatavimais. Jūs sukonstruojate faktą ir išmatavimus. Užkraunate duomenis iš šaltinio, sujungiate per Vartotoją, Produktą, ir Tiekėją. Darbas atliktas.
+
+Tada padarote keletą ataskaitų arba net sukuriate prototipą su ašine lentele ir biznis supranta, kad jie pamiršo pasakyti, kad jiems reikia atlikti analizę iš Regiono ir Pardavėjo perspektyvos, kad galėtų paskaičiuoti komisinius. Dabar jūs turite du pasirinkimus - sukonstruoti naują faktų lentą arba pakeisti esamą faktų lentą.
+
+Jei jūs sukursite naują faktų lentą, tada turėsite užkrauti duomenis iš šaltinio sistemos, nes esama faktų lentą turi tik sujungtus duomenis. Taigi dabar jūs turite dvi įkrovos procedūras, skirtas toms pačioms operacijoms atlikti. Jeigu jūs pakeitėte egzistuojančią faktų lentelę pridedami išorinius raktus naujiems išmatavimams, jūs turite perkrauti lentą nuo pradžių(galime prarandant istoriją), nes esami duomenys yra neteisingos granuliacijos.
+
+Taip, yra šių problemų sprendimą. Žmonės atlieka tai visą laiką. Bet tai nėra guvu. Nei atleidžiama dėl klaidų.
+
+Neatsižvelgiant į jūsų įgūdžius, šios problemos rūšys tampa didesnės ir sunkiau sprendžiamos. Įsivaizduokite, kad jūsų saugyklą sudaro šimtai lentų su milijonais ar milijardais eilučių. Lentų refaktoringas ir perkrovimas tokiu mastu užtrunka daugybę laiko.
+
+Duomenų Skliauto Metodas suteikia mums Guvų Duomenų Inžinerijos padedantį išvengti šių problemų būdą.
+
+= Formalus Duomenų Skliauto apibrėžimas
+
