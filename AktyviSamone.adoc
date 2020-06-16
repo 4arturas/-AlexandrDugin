@@ -363,7 +363,25 @@ Kitas dėmesio dekoncentraciją stiprinantis veiksmas - tolygus dėmesio paskirs
 
 === Garso dėmesio dekoncentracijos formavimo technikos
 
-===
+Dėmesio dekoncentracija garso aplinkoje atliekama kaip ir regos dėmesio dekoncentracija. Čia taip pat veikia dėmesio plėtimas nuo žemai diferencijuotų suvokimo zonų link turinčių aukštą organizuotumą. Garso suvokimui tokias žemą diferencijaciją turinčias zonas parinkti gan sudėtinga. Čia veikia trys principai.
+
+Pirma - sulyginamas stiprių ir silpnų stimulų reikšmingumas - dėmesys vienu metu fiksuoja garsius ir tylius garsus, neleidžiant išskirti garsių garsų. Reagavimo stereotipai slopinami gan greitai. Kriterijus gan paprastas: reakcija į garsius ir naujai atsirandančius garsus(orientacinė reakcija) neviršija reakcijos į tylius ir įprastus.
+
+Antra, atplėšiamas garsų ir jų šaltinių ryšys. Dažniausiai garsai sudaro visumą, nes susiję su tais objektais arba procesais, kurie juos sukuria. Priešingai tam garso dėmesio dekoncentraciją reikia kruopščiai stebėti ir pašalinti regos ir idėjų asociacijas. Garsai netenka idėjinio užpildymo, pavirsta į "paprastus garsus".
+
+Ir galiausiai, slopinamas formavimo iš garsų nuoseklumo polinkis formuoti stabilius geštaltus. Tai pati sudėtingiausia darbo dalis. Reikia sugebėti suvokti ritmišką melodiją kaip vienalyčius, ne susijusius vienas su kitu garsus. Sėkmingos garso dėmesio dekoncentracijos sąlyga yra garsų prasmės pašalinimas, desemantizacija. Netekusios jungiančio prasmės pagrindo, garso figūros subyra į atskirų skambėjimų rinkinį. Šiuo momentu nutrūksta ryšys tarp garso formų ir atitinkančių jas idėjinių sąmonės zonų, ir dėmesys gal lengvai pereina ant tų zonų, susikoncentruodamas ant to pagrindo, iš kurio atsiranda ir kuris turi savyje garsus - ant laiko eigos.
+
+Desemantizuoti garsai, vis vien, stengiasi sukurti stabilias figūras ir pradeda jungtis nauju būdu - ne pagal kilmės šaltinį ir ne pagal garso geštaltą, o pagal laiko momentą, kuriuo garsai pasiekia ausies būgnelį. Tokiu būdu, sąmonėje atsiranda dar viena laiko charakteristika, dažniausiai pasislėpusi nuo sąmonės po garsų srautais - aktuali dabartis.
+
+Aktuali dabartis - tai yra tai, kas suvokiama kaip dabartis, kaip vykstantis "dabar", o ne praeityje arba ateityje. Tai ne fizikinė ribos "tarp praeitimi ir ateitimi" abstrakcija. Aktualus dabar visada turi tam tikrą ilgį, kuris svyruoja priklausomai nuo ateinančių stimulų bruožo. Garsų seka suvokiama kaip garsinė figūra tik tada, kada visi jos elementai suvokiami kaip aktualus egzistuojantis dabar. Aktualaus dabar ribose sekantis įvykis įtakoja ankstesnį. Aktualus dabar - tai visuma, "laiko kvantas".
+
+Maksimalus aktualaus dabar ilgis vertinamas laiko trukme kurioje suvokiamas sakinys, kuriame paskutinis žodis sąlygoja pirmą («Коса у девушки расплелась» ir «Коса у девушки порезала ногу» - apie kokią косе kalbama, paaiškėja tik po trečio žodžio, bet subjektyvi žodžio "коса" reikšmė nustatoma iš "pradžių", tai yra frazė suprantama kaip visuma). Aktualaus dabar ilgis, kuris grupuoja skirtingos kilmės garsus į vieną, dažniausiai vertinamas nuo nulis kablelis penkių iki vienas kablelis penkių sekundžių.
+
+Garsai egzistuoja laike, ir garsų seka turi vienmatę prigimtį. Galime sakyti kad garso dėmesio dekoncentracija stabili, jeigu dėmesys slysta išilgai garso srautu, ne didindamas ir ne mažindamas aktualaus dabar intervalo. Tam padeda garso figūrų sąmonėje formavimo ir laikymo praktikos.
+
+Stengiantis perkelti garso dekoncentraciją į suvokimą fone analogiškai kaip regos dėmesio dekoncentracijoje duoda netikėtų rezultatų. Jeigu regos fonas suvokiamas kaip "makalynė", sudaryta iš nesusijusių tarp savęs regos aplinkos elementų, tai garsinis fonas, yra tai kas randasi tarp garsų - tai laikas, tiksliau kalbant, garso "pirminės materijos" ir laiko eigos tarpinė patirtis.
+
+=== Somatinė dėmesio dekoncentracija
 
 ===
 
