@@ -487,7 +487,28 @@ Judėjimas ciklu padeda pagilinti kiekvieną fazę ir įvaldyti gan stiprias pra
 
 === Lokali dėmesio apimtis
 
-===
+Lokalios dėmesio apimties formavimas - svarbus punktas dėmesio funkcijos išlaisvinimo nuo prisirišimo prie objektų kelyje. Dėmesys dažniausiai susikoncentravęs ant objekto, bet gali būti susikoncentravęs ir toje erdvės dalyje, kurią anksčiau užėmė objektas.
+
+Dažniausiai praktikos pradžioje lokali dėmesio apimtis formuojama trimis veiksmais: dėmesio sukoncentravimas ant objekto, kuris turi nedidelę apimtį(pavyzdžiui, kumštis arba didelis praktiko ištiestos rankos pirštas); objekto pašalinimas išsaugant dėmesį ant tos apimties, kurią buvo užėmęs objektas(susidaro tarsi "dėmesio kamuoliukas); dėmesio palaikymas ant lokalios apimtis pasinaudojant sąlygine motyvacija(kažkas svarbaus gali atsitikti būtent toje apimtyje).
+
+Išmokus lokalią dėmesio apimtį laikyti kelias minutes, galime pereiti prie skirtingų operacijų su lokalia dėmesio apimtimi. Pati paprasčiausia manipuliacija - lokalios dėmesio apimties perkėlimas erdvėje išlaikant jos apimtį, bet nesekant lokalios dėmesio apimties žvilgsniu. Reikia lėtai transportuoti lokalią dėmesio apimtį, neleidžiant dėmesiui šuoliuoti nuo vieno taško ant kito. Visa lokali dėmesio apimtis, "dėmesio kamuoliukas", transportuojamas konsoliduotai. Reikia vengti dažnos klaidos - dėmesio erdvės apimtyje pakeitimą vizualiu sferos vaizdu, tašku arba švytėjimu. Svarbu išsaugoti būtent erdvės apimtį, kuris apimamas dėmesiu, ją transportuojant. Tai tos pačios rūšies uždavinys, kaip ir "žinojimas be formos" - objekto pasirinkimas nesiremiant jo vaizdu arba žodiniu žymėjimu.
+
+Geras pratimas, kurį sukūrė mūsų bendradarbis Genadij Ovčerenko, yra lokalios dėmesio patalpinimas vienoje ašyje su bet kokiu nutolusiu objektu. Kol lokali dėmesio apimtis artėja prie daikto, kuris "matosi" kiaurai lokalią dėmesio apimtį, daiktas neišsiskiria iš bendro fono. Sutapus lokaliai dėmesio apimčiai su objektu dėmesys išskiria jį kaip figūrą, o tolstant lokaliai dėmesio apimčiai, daiktas vėl pereina į foną. Taip galima atskirti tikrai paskirstytą nedidelėje apimtyje dėmesį nuo dėmesio "spindulio" arba "dėmės", kuris išskiria visus į jį papuolusius daiktus nepriklausomai nuo jų nutolimo nuo stebėtojo. Naudojant Ovčerenko pratimą reikia slopinti įgimtą lokalios dėmesio apimties artėjimo lydėjimo refleksą suvedant akis, tarsi fiksuojant lokalios dėmesio apimties padėtį vizualioje erdvėje. Daikto, nuo kurio tolsta lokali dėmesio apimtis, fiksavimas žvilgsniu gali pagelbėti. Tai padeda atskirti dėmesį nuo vizualumo.
+
+Kad galutinai atskirti lokalią dėmesio apimtį nuo vizualumo charakteristikos, ją reikia pradžioje transportuoti į periferiją, o vėliau už regėjimo aplinkos, atlikus, pavyzdžiui, lokalios dėmesio apimties apsukimą aplink galvą. Čia taip pat reikia vengti pagundos lokalią dėmesio apimtį pakeisti įsivaizduojamu vaizdu arba lytėjimo jutimų kaip lokalios dėmesio apimties transportavimo trajektorijos projekcija.
+
+Regėjimo aplinkos periferijoje vizualiniai stimulai netenka savo objektyvumo ir, todėl, netenka savo apimties. Atsiranda aštrus kontrastas tarp dėmesio apimties ir lygumą įgaunančios plokštumos. Judėjimas nuo periferijos ir atgal palengvina apimties ir vizualumo atskyrimą: "dėmesio kamuoliukas" yra "spaudžiamas" regos aplinkos, kuri bando jį paversti į įprastą "dėmesio dėmę" ir reguliarūs jo perkėlimai "treniruoja" gebėjimą išlaikyti lokalią dėmesio apimtį nepriklausomai nuo vizualinio suvokimo bruožo.
+
+Dar labiau tam padeda reguliarus lokalios dėmesio apimties perkėlimas už regėjimo aplinkos ir atgal. Kada lokalios dėmesio apimties perkėlimas už regos aplinkos bus įsisavintas, ir dėmesio apimties charakteristika bus išlaikoma, galima abipusiai stiprinti ir apimties, ir "vizualinio nieko" patirtį, išsaugant vienu metu ir lokalią dėmesio apimtį ir dėmesį, kuris sukoncentruotas ties vizualinio suvokimo nebuvimu. Šiuo atveju lokalios dėmesio apimties patirtis smarkiai sustiprėja ir įgyja savarankiškumą.
+
+Judant lokaliai dėmesio apimčiai erdvėje, ji gali apimti skirtingus objektus ir tada jie atsiranda kaip figūros,
+kurias formuoja dėmesys. Lokalią dėmesio apimtį galim nutolinti gan dideliu atstumu nuo praktiko. Taip transportuojant lokalią dėmesio apimtį lengvai užfiksuoti tą faktą, kad kampiniai lokalios dėmesio apimties išmatavimas išlieka nepriklausomai nuo atstumo, kuriuo jį pavyko perkelti. Jame gali "tilpti" ir arti stovintis puodelis, ir nutolęs medis. Lokalios dėmesio apimties atžvilgiu neveikia perspektyvos įstatymas, nes lokali dėmesio patirtis, griežtai kalbant, nėra vizualinis fenomenas.
+
+Lokali dėmesio apimtis, iš vienos pusės, neturi kokybių, iš kitos - turi geometrinę formą ir dydį. Tai jau ne "ne-forma", bet dar ir ne jausmais apčiuopiama forma. Lokali dėmesio apimtis gali būti pavadinta vizualia protoforma.
+
+=== Tuščia erdvė
+
+
 
 ===
 
