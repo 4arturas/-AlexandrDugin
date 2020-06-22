@@ -536,9 +536,13 @@ Lokalios dėmesio apimties formavimui iš abstrakčios regėjimo plokštumos rei
 
 Beje, iš abstrakčios regėjimo plokštumos galima gauti ir tūrinę dėmesio dekoncentraciją. Dekoncentracinio dėmesio kokybė šiuo atveju skirsis nuo tūrinės dėmesio dekoncentracijos, gautos iš plokštuminės dėmesio dekoncentracijos. Dėmesio dekoncentracijos formavimui iš abstrakčios regėjimo plokštumos reikia "padalinti" abstrakčią regėjimo plokštumą ir pradėti jas stumti vieną nuo kitos taip, kad viena plokštuma judėtų į priekį, į erdvės gilumą, į kurią paniręs regimas paveiksliukas, o kita - atgal, į "vizualinį nieką". Šiuo atveju dėmesys ignoruoja daiktiškumą ir greičiau linksta link nesuvokimo, nei link foną. Detaliau šis procesas bus apžvelgtas sekančiuose skyriuose.
 
+Kyla klausimas, ar galima gauti lokalią dėmesio apimtį iš "nieko". Principe tai galima, bet procedūra visai kita. Jei aprašyti aukščiau trys lokalios dėmesio apimties formavimo būdai remiasi nuosekliomis vizualių dėmesio objektų transformacijos procedūromis ir susijusiomis su tais objektais vizualaus dėmesio kokybėmis(o reiškia - susijusio su erdviškumu),  tai tūrio sukūrimas iš nieko - šuolinis kūrybinis aktas.  "Nieke" nėra nei vizualių, nei erdvinių kokybių. Erdvei "nėra iš ko gimti". Ir tokiu būdu sukurta lokali dėmesio apimtis bet kuriuo atveju bus arba foninė, arba abstrakčiai-erdviškos prigimties.
+
+Tokiu būdu, skirtingi lokalios dėmesio apimties formavimo būdai leidžia apčiuopti subtilius dėmesio, nukreipto į objektą, į foną ir į ne-formas kokybių skirtumus. Kiekvienai iš objektų klasių turi savos dėmesio kokybę. Šių kokybių aptikimas leidžia pradėti dėmesio funkcijos diferenciacijos procesą.
+
+=== Tūrinio dėmesio formos
 
 
-===
 
 ===
 
