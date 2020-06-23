@@ -560,7 +560,22 @@ Suderinimas šių dviejų uždavinių, kada dėmesys įgyja objekto formą, o v�
 
 === Tūrinio dėmesio ciklai
 
-===
+Aprašytos būsenos iš tiesų reikalauja intensyvių ir atkaklių pastangų. Kaip rodo patirtis, prie jų pradeda artėti ne anksčiau, nei už nuo vieno su puse iki dviejų metų nuo praktikos pradžios. Panašia kaip dirbant su vizualiu dėmesiu, darbas su tūriniu dėmesiu palengvinamas ir pagreitinamas atliekant uždarus ciklus. Bendra ciklo schema: lokali dėmesio apimtis su objektu viduje - dėmesys objekto formoje - dėmesio sustabdymas - sustabdyto dėmesio tūrio praplėtimas iki ankstesnio dydžio, tai yra išsaugojimas substancionalios lokalios dėmesio apimties - dėmesio kaip funkcijos įjungimas(objekto išskyrimas dėmesiu), tai yra perėjimas į funkcionalią lokalią dėmesio apimtį - objekto formos dėmesys - ir taip toliau.
+
+Į ciklą gali būti įtraukiamos ir tūrinės dėmesio dekoncentracijos išplėtimo už patalpos ribų praktikos(erdvės patirtis), ir lokalios dėmesio apimties formavimas iš skirtingų šaltinių iš dėmesio dekoncentracijos ir abstrakčios regėjimo plokštumos. Šiame atvejyje prieš aprašytą ciklą eina tokia seka: plokščia dėmesio dekoncentracija - tūrinė dėmesio dekoncentracija - lokali dėmesio apimtis ir toliau einame ciklu. Kitas variantas: plokščia dėmesio dekoncentracija - tūrinė dėmesio dekoncentracija - abstrakti regėjimo plokštuma - lokali dėmesio apimtis ir taip toliau.
+
+Sluoksniavimas gali būti susijęs tik su skirtingos kilmės erdvėmis. Tada ciklas, kuris tinkamas sluoksniavimui, atrodo taip:
+plokščia dėmesio dekoncentracija -
+tūrinė dėmesio dekoncentracija -
+plokščia dėmesio dekoncentracija -
+abstrakti regėjimo plokštuma -
+tūrinė dėmesio dekoncentracija -
+abstrakti regėjimo plokštuma -
+plokščia dėmesio dekoncentracija -
+tūrinė dėmesio dekoncentracija ir toliau einame ciklu. Sluoksniuoti galima tik vienarūšes formas(erdvę ant erdvės, regėjimo aplinką ant regėjimo aplinkos ir taip toliau).
+
+=== Paradoksalios lokalios dėmesio apimties formos
+
 
 ===
 
