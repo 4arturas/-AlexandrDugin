@@ -668,7 +668,16 @@ Tai gan stiprus veiksmas, kuris realizuoja tikslus, kuriems jis buvo sukurtas. J
 
 === Somatinis ne-suvokimas
 
-===
+Nemažiau sudėtingas yra somatinio ne-suvokimo formavimas. Somatinio dėmesio perkėlimą galima atlikti nuo vidinio neapibrėžto šilumos pojūčio kūno paviršiuje, ir pereinant dėmesiu per taktilinius pojūčius toliau. Praktikoje tai atlikti žymiai sudėtingiau, nei dėmesio iškėlimas už regos aplinkos ribų. Jeigu regos aplinkoje ribų fenomenas gan aiškiai stebimas, tai kūno ribos somatinėje patirtyje neapčiuopiamos. Somatiniai pojūčiai ne ekranuoja vienas kito, ir ribų patirtį somatikai galima pritaikyti tik remiantis analogija regos aplinkoje. Todėl vienu metu atliekant vizualinį nesuvokimą ir dėmesio iškėlimo procedūrą už kūno ribų gali būti gera pagalba.
+
+Tam vienu metu atliekama dėmesio dekoncentracija vizualinėje ir somatinėje percepcinėse aplinkose. Kada dėmesio dekoncentracija tampa pakankamai gili, skirtumai tarp taktilinių(ir kitų somatinių) ir vizualinių pojūčių pranyksta, bet koks veiksmas arba dėmesio pokytis vienoje aplinkoje sukuria analogišką veiksmą arba pokytį kitoje. Šiame atvejyje kalbama apie dėmesio objekto diferenciacijos lygio pakeitimą - apie perėjimą nuo dėmesio dekoncentracijos į ne-suvokimą. Kadangi dviguba dėmesio dekoncentracija sukuria holistinį dėmesio objektą - vienalytį vizualinį-somatinį foną, tai vienos iš sudedamųjų dalių diferenciacijos lygio pakeitimas pakeičia viso objekto diferenciacijos lygį: fonas transformuojasi į ne-suvokimą.
+
+Kad išvengti nesusipratimų reikia paaiškinti, kad kada dėmesys pereina į kitą objektą toje pačioje aplinkoje, tai reiškia to aspekto, kuris buvo nuslopintas stipriu aspektu akcentuaciją. Bet kuriame suvokiamame objekte galima akcentuoti figūrą, foną, iš kurio dėmesys akcentavo objekto figūrą, ne-formą, tai yra tą abstrakciją, į kurią atlikta šio objekto redukcija(kuo jis suvoktas arba iš ko jis kyla), ir nebuvimo aspektas, "vieta, kur jo nėra". Žmogiška sąmonė padaryta taip, kad figūra stipresnė ir agresyvesnė už foną, fonas stipresnis ir agresyvesnis už ne-formą, ne-forma stipresnė už ne-suvokimą. Dėmesys, koncentruojasi ties vienu iš aspektų, kitus slopindamas.
+
+Šitas nuoseklus perėjimas nuo vieno suvokimo aspekto į kitą reiškia dėmesio kokybės kitimą, perėjimas į tą dėmesio kokybę, kuri leidžia akcentuoti užsibrėžtą aspektą(figūrą, foną, ne-formą ir ne-suvokimą). Dėmesio kokybės vienos kompleksinio objekto, sudaryto iš kelių kitų objektų(šiame atvejyje ne-suvokimo aspekto, vizualiniame komponente iš vizualaus-somatinio fono akcentavimas) sudedamųjų dalių atžvilgiu pasikeitimas, atveda prie to aspekto akcentavimo kompleksiniame objekte, kuriam ši kokybė atitinka. Aprašytą veiksmą naudosime nekartą toliau.
+
+
+=== Erdvės ne-suvokimas
 
 ===
 
