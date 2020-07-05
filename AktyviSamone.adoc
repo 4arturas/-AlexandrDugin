@@ -699,6 +699,14 @@ Darbo su ne-suvokimais kaip su objektu patirtį apjungus su percepcinių aplink�
 
 === "Ne-atmintis"
 
+Atminties kaip funkcijos darbo sustabdymą reikia priskirti prie darbo su ne-suvokimais klase.
+
+Atmintis yra "Aš" identiškumo pagrindas. Jos sustabdymas išliekant aktyviai valiai(valingai "Aš" pozicijai) atveda prie paradoksalios būsenos - subjektyvumo išsaugojimo nesiremiant suformuotomis ankstesnio gyvenimo eigos asmenybės struktūromis ir atitinkamo "atminties fono".
+
+Sustabdantis atmintį veiksmas, identiškas veiksmui, kuris naudojamas dirbant su laiku - dėmesio sutelkimas ties šia akimirka slopinant garsinių ir kitų figūrų susidarymą laike. Atliekant šį veiksmą bet koks atsiminimas netenka savos visumos ir nesusijungia su kitais atsiminimais į vieningą vientisą sistemą. Bet tai reiškia, pirma, suvokimo nebuvimo(jeigu šios akimirkos suvokimas nesiejamas su kitais, esančiais operatyvioje atmintyje, tai jis nesuvokiamas ir netampa pagrindine "Aš" orientacija ne-"Aš"-pasaulyje"), ir, antra, sprendimų priėmimo ir planavimo kaip veiklos, kuri sudaryta iš daugybės atskirai laike išsidėsčiusių aktų nutraukimas. Šiuo atveju išliekantis subjekto aktyvumas realizuojasi visai kitose formose, kurios nepasitaiko kasdieniniame gyvenime.
+
+Bet pradinėse praktikos etapuose atminties sustabdymas nėra jau toks radikalus. Ne-atmintį galima stebėti kaip objektą, išsaugant atskiras "Aš" redukuotas operacijas. Tuo pačiu "Aš" susiejamas su laiko eiga, bet atsiminimų produkcija ir susiejimas jų su esamais suvokimais(jų pažinimas) visiškai sustoja.
+
 
 
 ===
