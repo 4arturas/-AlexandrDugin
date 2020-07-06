@@ -713,6 +713,9 @@ Tam kad transformuoti nuslopintos atminties būseną į ne-suvokimo-objektą, į
 
 Toliau šis pasiekimas pasitarnaus alternatyvių asmenybės struktūrų formavimo pagrindu.
 
+=== "Ne-suvokimų" ciklai
 
+Ciklai ir ne-suvokimų perdengimai gali būti konstruojami taip pat, kaip ne-formų perdengimai. Tai leistinos procedūros. Bet jos gali būti panaudotos tik kruopščiai ištreniravus kiekvieną ne-suvokimo formą. Perdengimas atliekamas kaip nuoseklus ne-suvokimo zonos išplėtimas į gretimas aplinkas iki totalaus ne-suvokimo. Tai atliekant ne-suvokimai  netenka savo modalumo bruožo, ir realumas "Aš" išorėje tampa totaliu visko nebuvimu, fundamentalia tuštuma.
 
-===
+=== Ne-suvokimai ir "Aš" dinamika
+
