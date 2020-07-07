@@ -747,3 +747,13 @@ Kartu, už "apibrėžimo srities" ribų galima gauti naujus netrivialius turiniu
 
 === Bespalvis švytėjimas, takumas ir takus švytėjimas
 
+Vienas iš būdų, kuris išveda vaizduotę į ribas "apibrėžimo ribas", - nuoseklus atėmimas iš realaus objekto kai kurių jį sudarančių kokybių išsaugant kitas. Taip, pavyzdžiui, įsivaizduojant ugnį, galima atimti iš jos karščio savybę, pavertus ją tik šviesos šaltinį, o vėliau, išlikus švytėjimui, nuosekliai pašalinti spalvos kokybę. Švytėjimas, kuris neturi spalvos - tai ne ryškai-baltas spindėjimas ir ne suvirinimo aparato veikimo skleidžiama spalva, - tai pakankamai abstrakti patirtis, išryškinanti švytėjimo patirtyje ne tik vizualinį, bet ir kitą komponentą. Tas kitas komponentas, išsipakuodamas vizualume, gali pridėti intensyvumo ir išsekimo kokybes, modifikuodamas vizualines išraiškas. Vis dėl to, būdamas izoliuotas nuo vizualumo, bespalvis švytėjimas tarsi duoda užuominą į kitą, neišpakuotą modalumą.
+
+Intensyvumas ir išsekimas patys gali išsipakuoti į ypatingas formas, kurios atspindi aktyvumą ir potencialią objektų galią. Įmanoma aktyviai panaudoti švytėjimą ne-formų modifikavimui ir jų transformavimui į abstrakčias protoformas, o taip pat suvokimo valdymui. Taip, bespalvį švytėjimą galima išpakuoti į abstrakčią regėjimo plokštumą, suteikiant didesnį arba mažesnį intensyvumą jos išraiškai, o galima modifikuoti regėjimo aplinkos užmerktomis akimis švytėjimą.
+
+Grynas takumas formuojamas panašiai kaip bespalvis švytėjimas: iš integralaus vandens vaizdinio nuosekliai šalinant drėgnumą ir tankį. Takumo perkėlimas į somatinę aplinką padidina kūno lankstumą, o takumo kokybės apčiuopimas gamtoje padeda aptikti judrumo ir tendencijos kisti aspektus suvokiant Pasaulį.
+
+Įmanomas švytėjimo ir takumo apjungimas į vientisą integralinį objektą. Toks apjungimas taip pat yra funkcijos ir modalumo protėvis, kurie atitinka tam tikrus Pasaulio aspektus ir aktyviame moduse, kuris veikia jį.
+
+=== "Neegzistuojančios spalvos"
+
